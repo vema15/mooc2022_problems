@@ -11,4 +11,4 @@ Introduction to Programming Course-
 11/16/2023 - 12/12/2023
 
 Advanced Course in Programming-
-TBD
+12/20/2023 - Present
