@@ -11,4 +11,7 @@ Introduction to Programming Course-
 11/16/2023 - 12/12/2023
 
 Advanced Course in Programming-
-12/18/2023 - Present
+12/18/2023 - 1/7/2024
+
+Note: 
+I have skipped parts 13 and 14 involving game design.
